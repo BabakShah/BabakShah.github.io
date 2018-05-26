@@ -1,4 +1,4 @@
-# Poole
+<!--# Poole
 
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
 
@@ -105,17 +105,17 @@ Poole has two branches, but only one is used for active development.
 - `master` for development.  **All pull requests should be to submitted against `master`.**
 - `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
 
-CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are located in `_sass/`, included into `styles.scss`, and compile to `styles.css`.
+CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are located in `_sass/`, included into `styles.scss`, and compile to `styles.css`.-->
 
 ## Author
 
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+**Babak Shahian Jahromi**
+<!--- <https://github.com/mdo>
+- <https://twitter.com/mdo>-->
 
 
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
 
-<3
+<!--<3-->
