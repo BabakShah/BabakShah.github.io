@@ -3,7 +3,7 @@ layout: post
 title: MTA Data Analysis
 ---
 
-Here's the top 10 stations I found. 
+Here are the top 10 stations I found. 
 
-![alt_text](Station_Map.png)
+![alt_text]({{site.url}}/images/Station_Map.png)
 
